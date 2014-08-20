@@ -48,7 +48,7 @@ public class TestClass {
 	public void test7()
 	{
 		System.out.println("Inside test seven");
-	//	Assert.assertEquals("1", "0");
+		Assert.assertEquals("1", "0");
 	}
 	
 	@Test
